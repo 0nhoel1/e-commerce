@@ -1,0 +1,7 @@
+#pip>=24.3.1
+numpy
+pandas
+matplotlib
+streamlit
+seaborn
+
