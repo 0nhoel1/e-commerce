@@ -153,4 +153,4 @@ by: Anwar Muhammad
 st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
 st.code(name, language='python')
 st.markdown("</div>", unsafe_allow_html=True)
-st.link_button("github-repo", "https://github.com/0nhoel1")
+st.link_button("github-repo", "https://github.com/0nhoel1/e-commerce")
